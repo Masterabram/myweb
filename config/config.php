@@ -9,10 +9,10 @@ ob_start();
 // session_start();
 
 define('DB_DRIVER', 'mysql');
-define('DB_SERVER', 'localhost');
-define('DB_SERVER_USERNAME', 'root');
-define('DB_SERVER_PASSWORD', '');
-define('DB_DATABASE', 'myweb');
+define('DB_SERVER', 'mysql4.gear.host');
+define('DB_SERVER_USERNAME', 'mcogol');
+define('DB_SERVER_PASSWORD', 'Ik5t9eof!N!S');
+define('DB_DATABASE', 'mcogol');
 
 
 $dboptions = array(
